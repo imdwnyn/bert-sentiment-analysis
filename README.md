@@ -95,6 +95,4 @@ One of the highlights of this project is testing the model on tricky, real-world
 
 ## 👤 Author
 
-**Your Name**  
-B.Tech [Your Branch] | [Your College]  
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
+**Dwinayan Deb**  
